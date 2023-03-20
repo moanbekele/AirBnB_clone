@@ -1,15 +1,14 @@
 section.filters {
     background-color: white;
-    height: 204px;
+    height: 70px;
     width: 100%;
-    border: 19px solid #DDDDDD;
-    border-radius: 75px;
+    border: 1px solid #DDDDDD;
+    border-radius: 4px;
     display: flex;
 }
-
 section.filters button {
     font-size: 18px;
-    background-color: #140202;
+    background-color: #FF5A5F;
     color: #FFFFFF;
     height: 48px;
     width: 20%;
